@@ -4,3 +4,4 @@ Explore visualization tools for understanding Transformer-based large language m
 
 - **Transformer Explainer** by Georgia Tech and IBM: [Demo](https://poloclub.github.io/transformer-explainer/)
 - **LLM Visualization** by Brendan Bycroft: [Demo](https://bbycroft.net/llm)
+- **BertViz** by Jesse Vig: [GitHub](https://github.com/jessevig/bertviz)
