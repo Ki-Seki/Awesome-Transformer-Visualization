@@ -2,6 +2,11 @@
 
 Explore visualization tools for understanding Transformer-based large language models (LLMs):
 
+- **AI by Hand (Excel)**
+  _Learn several key components of DL models by using customized excels_
+  Tom Yeh, 2024.09
+  [GitHub](https://github.com/ImagineAILab/ai-by-hand-excel)
+
 - **Transformer Explainer**  
   _Learn How Transformer Models Work with Interactive Visualization_  
   Georgia Tech and IBM, 2024.08  
