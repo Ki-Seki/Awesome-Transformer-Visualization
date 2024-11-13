@@ -46,6 +46,15 @@ Google DeepMind, 2024.07
 
 <img src="./assets/gemma-scope.png" width="100%">
 
+## Inspectus
+
+_Inspectus is a versatile visualization tool for machine learning. It runs smoothly in Jupyter notebooks via an easy-to-use Python API._
+
+labml.ai, 2024.06
+[GitHub](https://github.com/labmlai/inspectus)
+
+<img src="./assets/inspectus.gif" width="100%">
+
 ## SAE Viewer
 
 _We used new scalable methods to decompose GPT-4’s internal representations into 16 million oft-interpretable patterns._
