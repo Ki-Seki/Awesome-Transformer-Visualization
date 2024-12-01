@@ -4,6 +4,16 @@ Explore visualization tools for understanding Transformer-based large language m
 
 Ordered by publication date, from newest to oldest.
 
+## Tilde
+
+_Apply interpretability to unlock deep reasoning and control of models, enabling the next generation of human-AI interaction._
+
+Tilde Research, 2024.11
+[Thread](https://x.com/tilderesearch/status/1856404543808131334) /
+[Website](https://www.tilderesearch.com/)
+
+<img src="./assets/Tilde.gif" width="100%">
+
 ## Transluce
 
 _Tools for understanding and steering AI systems, and insights derived from their use inform our research._
