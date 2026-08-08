@@ -4,6 +4,16 @@ Explore visualization tools for understanding Transformer-based large language m
 
 Ordered by publication date, from newest to oldest.
 
+## GradToken
+
+_Decouple the tangled semantics in the class token with class-aware gradients to generate target-selective relevance maps for Transformer predictions._
+
+Lin Cheng, Yanjie Liang, Yang Lu, and Yiu-ming Cheung, 2025.01
+[GitHub](https://github.com/c77lin/Transformer-interpretation-and-visualization) /
+[Paper](https://doi.org/10.1016/j.neunet.2024.106837)
+
+<img src="./assets/gradtoken.png" width="100%">
+
 ## Tilde
 
 _Apply interpretability to unlock deep reasoning and control of models, enabling the next generation of human-AI interaction._
