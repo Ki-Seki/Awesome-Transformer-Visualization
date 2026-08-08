@@ -12,7 +12,7 @@ Lin Cheng, Yanjie Liang, Yang Lu, and Yiu-ming Cheung, 2025.01
 [GitHub](https://github.com/c77lin/Transformer-interpretation-and-visualization) /
 [Paper](https://doi.org/10.1016/j.neunet.2024.106837)
 
-<img src="./assets/gradtoken.jpg" width="100%">
+<img src="./assets/gradtoken.png" width="100%">
 
 ## Tilde
 
