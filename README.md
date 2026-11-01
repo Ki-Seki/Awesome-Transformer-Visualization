@@ -4,6 +4,16 @@ Explore visualization tools for understanding Transformer-based large language m
 
 Ordered by publication date, from newest to oldest.
 
+
+## Offline Model Architecture Explorer
+
+_Explore the layer-by-layer architecture of popular neural network models (GPT-2, T5) entirely in your browser — no download, no Python required. Runs offline._
+
+JohnVeds15, 2026.10
+[Demo](https://johnveds15-model-arch-explorer.static.hf.space) /
+[HuggingFace](https://huggingface.co/spaces/JohnVeds15/model-arch-explorer)
+
+<img src="https://picsum.photos/seed/model-arch/1000/500" width="100%">
 ## Tilde
 
 _Apply interpretability to unlock deep reasoning and control of models, enabling the next generation of human-AI interaction._
